@@ -18,7 +18,4 @@ tempfile & os: For clean file handling under the hood.
 
  Whether you're building accessibility tools, working in multilingual environments, or just experimenting — this small tool packs a big punch.
 
-Check out the working demo 
-(Attach the Gradio app link here once launched)
-
 Let’s keep making tech more universal, accessible, and boundaryless 
